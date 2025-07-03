@@ -1,7 +1,6 @@
 # jasonB-LC.github.io
-<!DOCTYPE html>
 <head>
-  Head
+  head
 </head>
 <body>
   <h2>body</h2>
