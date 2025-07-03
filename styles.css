@@ -1,5 +1,5 @@
 body {
     color: rgb(6, 2, 27);
-    background: rgb(218, 219, 231)
+    background: linear-gradient(to right, rgb(218, 219, 231), white);
     font-family: cursive;
 }
